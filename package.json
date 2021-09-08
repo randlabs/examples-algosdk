@@ -1,0 +1,27 @@
+{
+  "name": "examples-algosdk",
+  "version": "1.0.0",
+  "description": "Using algosdk package",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/randlabs/examples-algosdk.git"
+  },
+  "keywords": [
+    "algosdk",
+    "randlabs",
+    "myalgo"
+  ],
+  "author": "Rand Labs",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/randlabs/examples-algosdk/issues"
+  },
+  "homepage": "https://github.com/randlabs/examples-algosdk#readme",
+  "dependencies": {
+    "algosdk": "^1.11.1"
+  }
+}
